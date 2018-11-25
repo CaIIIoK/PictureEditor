@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\bin\Debug\PictureEditor.exe.config
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\bin\Debug\PictureEditor.exe
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\bin\Debug\PictureEditor.pdb
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.Form1.resources
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.Properties.Resources.resources
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.exe
+C:\Users\Alex\source\repos\PictureEditor\PictureEditor\obj\Debug\PictureEditor.pdb
